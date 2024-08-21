@@ -1,7 +1,7 @@
 
 
 import java.util.Scanner;
-public class  IT24100490Lab4Q1{
+public class  IT24103035Lab4Q1{
 
           public static void main(String[]args){
 	
